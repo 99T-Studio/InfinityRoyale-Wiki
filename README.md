@@ -1,2 +1,3 @@
-# InfinityRoyale-Wiki
-Wiki do jogo Infinity Royale 
+# Você está na Wiki Oficial de Infinity Royale
+
+Aqui Você pode buscar informações sobre cada Power up, personagem etc sobre o jogo.
